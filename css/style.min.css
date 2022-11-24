@@ -324,19 +324,19 @@ body {
 }
 
 .header-bottom__item--first {
-    background-image: url("./images/icons/type1.png")
+    background-image: url("../images/icons/type1.png")
 }
 
 .header-bottom__item--second {
-    background-image: url("./images/icons/type2.png")
+    background-image: url("../images/icons/type2.png")
 }
 
 .header-bottom__item--third {
-    background-image: url("./images/icons/type3.png")
+    background-image: url("../images/icons/type3.png")
 }
 
 .header-bottom__item-fourth {
-    background-image: url("./images/icons/type4.png")
+    background-image: url("../images/icons/type4.png")
 }
 
 .header-bottom__item-title {
@@ -351,7 +351,7 @@ body {
 }
 
 .service {
-    background-image: url("./images/service-bg.jpg");
+    background-image: url("../images/service-bg.jpg");
     min-height: 100vh
 }
 
@@ -361,7 +361,7 @@ body {
 
 .service-content {
     max-width: 900px;
-    background-image: url(./images/service-content.jpg);
+    background-image: url(../images/service-content.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -421,7 +421,7 @@ body {
 }
 
 .shop {
-    background-image: url("./images/shop-bg.jpg");
+    background-image: url("../images/shop-bg.jpg");
     min-height: 100vh
 }
 
@@ -461,7 +461,7 @@ body {
 }
 
 .location {
-    background-image: url("./images/location-bg.jpg")
+    background-image: url("../images/location-bg.jpg")
 }
 
 .location__top {
@@ -509,7 +509,7 @@ body {
 }
 
 .foliage {
-    background-image: url("./images/foliage-bg.jpg")
+    background-image: url("../images/foliage-bg.jpg")
 }
 
 .foliage__top {
@@ -616,7 +616,7 @@ body {
     position: absolute;
     max-width: 18px;
     height: 13px;
-    background-image: url("./images/icons/basket.svg");
+    background-image: url("../images/icons/basket.svg");
     top: 4px;
     right: 26px
 }
@@ -788,7 +788,7 @@ body {
         padding: 16px 45px
     }
     .shop {
-        background-image: url(./images/service-bg.jpg);
+        background-image: url(../images/service-bg.jpg);
         min-height: 100vh
     }
     .shop-content {
